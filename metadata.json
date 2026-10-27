@@ -1,0 +1,7 @@
+{
+  "name": "L'Élixir Floral – Luxury Flower Boutique & Atelier",
+  "description": "Nền tảng thương mại điện tử hoa tươi cao cấp với giỏ hàng, thanh toán ví điện tử, quản lý đơn hàng thời gian thực, dashboard admin, PWA ngoại tuyến và master prompt studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
